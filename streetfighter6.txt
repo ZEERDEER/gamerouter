@@ -1,7 +1,6 @@
 playfabapi.com
 capcom.com
 cloudapp.azure.com
-cloudfront.net
 dzyiry2ohdgp7.cloudfront.net
 sf6.streetfighter.com
 storage.googleapis.com
