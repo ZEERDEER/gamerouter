@@ -1,14 +1,18 @@
-playfabapi.com
-capcom.com
-cloudapp.azure.com
+7f965.playfabapi.com
+wlt.rebe.capcom.com
+mpsqosprod.westus.cloudapp.azure.com
 dzyiry2ohdgp7.cloudfront.net
-sf6.streetfighter.com
 storage.googleapis.com
 
 production-asia-northeast1-capi.sf6.streetfighter.com
 production-us-central1-capi.sf6.streetfighter.com
 production-europe-west2-capi.sf6.streetfighter.com
 production-southamerica-east1-capi.sf6.streetfighter.com
+
+production-asia-northeast1-battlehub.sf6.streetfighter.com
+production-us-central1-battlehub.sf6.streetfighter.com
+production-europe-west2-battlehub.sf6.streetfighter.com
+production-southamerica-east1-battlehub.sf6.streetfighter.com
 
 
 
