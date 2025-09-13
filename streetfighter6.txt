@@ -1,3 +1,4 @@
+production-us-central1-notify.sf6.streetfighter.com
 7f965.playfabapi.com
 wlt.rebe.capcom.com
 mpsqosprod.westus.cloudapp.azure.com
