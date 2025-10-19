@@ -1,6 +1,6 @@
 payload:
-  - PROCESS-PATH,D:\Steam\steamapps\common\Street Fighter 6\StreetFighter6.exe,PROXY
-  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\SP\bf6.exe,PROXY
-  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\bf6.exe,PROXY
-  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\EAAntiCheat.GameServiceLauncher.exe,PROXY
-  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\EAAntiCheat\EAAntiCheat.Installer.exe,PROXY
+  - PROCESS-PATH,D:\Steam\steamapps\common\Street Fighter 6\StreetFighter6.exe
+  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\SP\bf6.exe
+  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\bf6.exe
+  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\EAAntiCheat.GameServiceLauncher.exe
+  - PROCESS-PATH,D:\Steam\steamapps\common\Battlefield 6\EAAntiCheat\EAAntiCheat.Installer.exe
