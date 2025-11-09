@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN,accounts.grpc.ea.com
+  - DOMAIN,assets.layer.ea.com
+  - DOMAIN,cdn.mcr.ea.com
+  - DOMAIN,collector.errors.ea.com
+  - DOMAIN,eaassets-a.akamaihd.net
+  - DOMAIN,experimentation.data.ea.com
+  - DOMAIN,freeform-river.data.ea.com
+  - DOMAIN,friends.social.ea.com
+  - DOMAIN,gateway.ea.com
+  - DOMAIN,gateway.grpc.ea.com
+  - DOMAIN,gcs.ea.com
+  - DOMAIN,insights-collector.newrelic.com
+  - DOMAIN,pin-river.data.ea.com
+  - DOMAIN,santiago-prod-eventbridge.ops.dice.se
+  - DOMAIN,santiago-prod-mp-cgw.ops.dice.se
+  - DOMAIN,spring25.client.blazeredirector.ea.com
+  - DOMAIN,tos.ea.com
+  - DOMAIN,update.layer.ea.com
