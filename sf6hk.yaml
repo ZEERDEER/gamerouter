@@ -56,4 +56,3 @@ payload:
   - 45.195.23.0/24,no-resolve
   - 239.255.255.0/24,no-resolve
   - 103.129.254.0/24,no-resolve
-  - ,no-resolve
