@@ -14,3 +14,35 @@ production-asia-northeast1-battlehub.sf6.streetfighter.com
 production-us-central1-battlehub.sf6.streetfighter.com
 production-europe-west2-battlehub.sf6.streetfighter.com
 production-southamerica-east1-battlehub.sf6.streetfighter.com
+
+
+#街霸6服务器地址
+
+亚洲 (Asia):
+
+mpsqosprod.japaneast.cloudapp.azure.com 
+mpsqosprod.japanwest.cloudapp.azure.com 
+mpsqosprod.eastasia.cloudapp.azure.com 
+mpsqosprod.southeastasia.cloudapp.azure.com 
+
+欧洲 (Europe):
+
+mpsqosprod.westeurope.cloudapp.azure.com 
+mpsqosprod.northeurope.cloudapp.azure.com 
+
+北美 (North America):
+
+mpsqosprod.westus.cloudapp.azure.com 
+mpsqosprod.eastus.cloudapp.azure.com 
+mpsqosprod.eastus2.cloudapp.azure.com 
+mpsqosprod.centralus.cloudapp.azure.com 
+mpsqosprod.northcentralus.cloudapp.azure.com 
+mpsqosprod.southcentralus.cloudapp.azure.com 
+
+大洋洲/南美/中东/非洲:
+
+mpsqosprod.australiaeast.cloudapp.azure.com 
+mpsqosprod.australiasoutheast.cloudapp.azure.com 
+mpsqosprod.brazilsouth.cloudapp.azure.com 
+mpsqosprod.uaenorth.cloudapp.azure.com 
+mpsqosprod.southafricanorth.cloudapp.azure.com
