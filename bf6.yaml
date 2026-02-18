@@ -1,0 +1,51 @@
+payload:
+- DOMAIN-SUFFIX,dice.se
+  - DOMAIN-SUFFIX,ea.com
+
+#亚洲 东京
+  - DOMAIN-SUFFIX,gamelift-ping.ap-northeast-1.api.aws
+
+#亚洲 首尔
+  - DOMAIN-SUFFIX,gamelift-ping.ap-northeast-2.api.aws
+
+#亚洲 新加坡
+  - DOMAIN-SUFFIX,gamelift-ping.ap-southeast-1.api.aws
+
+#亚洲 悉尼
+  - DOMAIN-SUFFIX,gamelift-ping.ap-southeast-2.api.aws
+
+#亚洲 香港
+  - DOMAIN-SUFFIX,gamelift-ping.ap-east-1.api.aws
+
+#亚洲 孟买
+  - DOMAIN-SUFFIX,gamelift-ping.ap-south-1.api.aws
+
+#北美 俄勒冈
+  - DOMAIN-SUFFIX,gamelift-ping.us-west-2.api.aws
+
+#北美 加利福尼亚
+  - DOMAIN-SUFFIX,gamelift-ping.us-west-1.api.aws
+
+#北美 俄亥俄
+  - DOMAIN-SUFFIX,gamelift-ping.us-east-2.api.aws
+
+#欧洲 法兰克福
+  - DOMAIN-SUFFIX,gamelift-ping.eu-central-1.api.aws
+
+#欧洲 斯德哥尔摩
+  - DOMAIN-SUFFIX,gamelift-ping.eu-north-1.api.aws
+
+#欧洲 爱尔兰
+  - DOMAIN-SUFFIX,gamelift-ping.eu-west-1.api.aws
+
+#欧洲 伦敦
+  - DOMAIN-SUFFIX,gamelift-ping.eu-west-2.api.aws
+
+#南美 圣保罗
+  - DOMAIN-SUFFIX,gamelift-ping.sa-east-1.api.aws
+
+#中东 巴林
+  - DOMAIN-SUFFIX,gamelift-ping.me-south-1.api.aws
+
+#非洲 开普敦
+  - DOMAIN-SUFFIX,gamelift-ping.af-south-1.api.aws
